@@ -9,9 +9,7 @@
 
 ## QC
 
-
 ## Population stratification
 
 ## Association 
 
-## Polygenic Risk Score 
